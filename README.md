@@ -17,6 +17,3 @@ Ce programme permet de générer des mots de passe aléatoires en choisissant le
 
 ### Compilation
 
-```bash
-go build -o passwordGenerator
-
