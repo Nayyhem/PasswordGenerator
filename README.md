@@ -13,7 +13,4 @@ Ce programme permet de générer des mots de passe aléatoires en choisissant le
   - Symboles
 - Longueur personnalisable
 
-## Utilisation
-
-### Compilation
 
